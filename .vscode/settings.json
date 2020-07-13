@@ -1,0 +1,17 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [],
+  "eslint.alwaysShowStatus": true,
+  "eslint.lintTask.enable": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "eslint.options": {
+    "config": "./.eslintrc.json"
+  },
+  "cSpell.words": [
+    "jira"
+  ]
+}
